@@ -1,11 +1,10 @@
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">&nbsp;&nbsp;&nbsp;Hi there! Welcome
-  to my git profile.&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="50px">
+  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">&nbsp;&nbsp;&nbsp;-->Welcome
+  to my git profile.&nbsp;&nbsp;&nbsp;
 </h1>
 
 <h1>
-  My name is Paulo I'm Brazilian Front-end Developer and I love to learn every day more about this amazing universe.
+ I'm Brazilian Front-end Developer.
 </h1>
 <br />
 
@@ -97,11 +96,11 @@
   </a>
 </div>
 <br />
-
+<!--
 <div>
   <img height="120px"
     src="https://github-readme-stats.vercel.app/api?username=pausasilva&theme=great-gatsby&show_icons=true)">
   <img height="120px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pausasilva&theme=great-gatsby&layout=compact">
-</div>
+</div> -->
 <br />
